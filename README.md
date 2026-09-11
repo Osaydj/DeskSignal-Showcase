@@ -1,6 +1,6 @@
-# InsightIQ — AI Business Analytics Assistant
+# DeskSignal — AI Business Analytics Assistant
 
-InsightIQ is a portfolio business analytics application that transforms validated fictional sales data into clear KPIs, interactive visualizations, anomaly reviews, and deterministic sales forecasts.
+DeskSignal is a portfolio business analytics application that transforms validated fictional sales data into clear KPIs, interactive visualizations, anomaly reviews, and deterministic sales forecasts.
 
 [![Live App](https://img.shields.io/badge/Launch-Live_App-e11d48?style=for-the-badge)](https://insightiq-business-analytics.streamlit.app)
 
@@ -10,15 +10,15 @@ InsightIQ is a portfolio business analytics application that transforms validate
 
 ### Business overview
 
-![InsightIQ Version 2 business overview](./InsightIQ-Overview.png)
+![DeskSignal Version 2 business overview](./InsightIQ-Overview.png)
 
 ### Anomaly review
 
-![InsightIQ Version 2 anomaly review](./InsightIQ-Anomalies.png)
+![DeskSignal Version 2 anomaly review](./InsightIQ-Anomalies.png)
 
 ### Sales forecasting
 
-![InsightIQ Version 2 sales forecast](./InsightIQ-Forecasting.png)
+![DeskSignal Version 2 sales forecast](./InsightIQ-Forecasting.png)
 
 ## What Version 2 Does
 
