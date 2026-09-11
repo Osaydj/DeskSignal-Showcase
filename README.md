@@ -108,4 +108,4 @@ Created by [Osayd Jahanzeb](https://github.com/Osaydj).
 
 Copyright © 2026 Osayd Jahanzeb. All rights reserved.
 
-This showcase and the InsightIQ source code are provided for portfolio review only. No license is granted to copy, modify, redistribute, sublicense, or sell the software.
+This showcase and the DeskSignal source code are provided for portfolio review only. No license is granted to copy, modify, redistribute, sublicense, or sell the software.
